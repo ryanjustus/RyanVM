@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RyanVM:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d28163e3-e95d-4c17-8a7a-069e8cc8a355" name="Default" comment="" />
+    <ignored path="RyanVM.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Lexer.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359420546916" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360610979361" ignored="false" />
+    <file path="/fragment.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366297480648" ignored="false" />
+    <file path="/TokenType.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1358277691421" ignored="false" />
+    <file path="/Token.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1357862512838" ignored="false" />
+    <file path="/LexerTest.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1358277828382" ignored="false" />
+    <file path="/Parser.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359399800097" ignored="false" />
+    <file path="/BinaryExpressionParser.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1358282164410" ignored="false" />
+    <file path="/HelloParser.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359400197101" ignored="false" />
+    <file path="/kxiCompiler.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359421256627" ignored="false" />
+    <file path="/KXI.g" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359421039071" ignored="false" />
+    <file path="/Expression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361748615513" ignored="false" />
+    <file path="/ExpressionTest.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359424392278" ignored="false" />
+    <file path="/KXICompiler.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366221540664" ignored="false" />
+    <file path="/Statement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1363378967952" ignored="false" />
+    <file path="/StatementTest.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365028818590" ignored="false" />
+    <file path="/Program.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359503122188" ignored="false" />
+    <file path="/CompilationUnit.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366326282174" ignored="false" />
+    <file path="/ClassDeclaration.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366143166710" ignored="false" />
+    <file path="/MethodBody.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366253147603" ignored="false" />
+    <file path="/ClassMember.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360539157183" ignored="false" />
+    <file path="/ParameterList.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359504534744" ignored="false" />
+    <file path="/Parameter.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1363636251802" ignored="false" />
+    <file path="/Type.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366240613459" ignored="false" />
+    <file path="/VariableDeclaration.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366239872396" ignored="false" />
+    <file path="/AssignmentExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366239943044" ignored="false" />
+    <file path="/Method.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366159212370" ignored="false" />
+    <file path="/Member.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1359507707129" ignored="false" />
+    <file path="/Constructor.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366159390560" ignored="false" />
+    <file path="/FieldDeclaration.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360536502203" ignored="false" />
+    <file path="/SymanticException.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360537757083" ignored="false" />
+    <file path="/Modifier.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360538319438" ignored="false" />
+    <file path="/Field.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366062676036" ignored="false" />
+    <file path="/exprThis.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360541293162" ignored="false" />
+    <file path="/NewDeclaration.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366361938573" ignored="false" />
+    <file path="/This.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366309164588" ignored="false" />
+    <file path="/ATOI.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360541932101" ignored="false" />
+    <file path="/ITOA.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360541954429" ignored="false" />
+    <file path="/PrimitiveFunction.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365905806328" ignored="false" />
+    <file path="/MainClass.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1363467002295" ignored="false" />
+    <file path="/Clazz.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360549630015" ignored="false" />
+    <file path="/Scope.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1364672919773" ignored="false" />
+    <file path="/IMethod.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360611909331" ignored="false" />
+    <file path="/KXITextEditor.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366319868631" ignored="false" />
+    <file path="/KXIEditorParser.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366326457652" ignored="false" />
+    <file path="/KXEditorParseResult.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360616278818" ignored="false" />
+    <file path="/KXIEditorParserNotice.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1362351086657" ignored="false" />
+    <file path="/SyntaxException.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366230411094" ignored="false" />
+    <file path="/LineOffset.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1360622947707" ignored="false" />
+    <file path="/Primitive.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361661351542" ignored="false" />
+    <file path="/IStatement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361743236230" ignored="false" />
+    <file path="/BlockStatement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1363468593275" ignored="false" />
+    <file path="/StatementImpl.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361743699781" ignored="false" />
+    <file path="/ExprStatement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365908929586" ignored="false" />
+    <file path="/IfStatement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366247817543" ignored="false" />
+    <file path="/StatementBuilder.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361755956918" ignored="false" />
+    <file path="/WhileStatement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366317748734" ignored="false" />
+    <file path="/ReturnStatement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365904890331" ignored="false" />
+    <file path="/CINStatement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366157104116" ignored="false" />
+    <file path="/COUTStatement.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366161458844" ignored="false" />
+    <file path="/PrimitiveExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361745854965" ignored="false" />
+    <file path="/ExpressionBuilder.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366309264563" ignored="false" />
+    <file path="/ParenExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361746449336" ignored="false" />
+    <file path="/CharacterExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361747084436" ignored="false" />
+    <file path="/NumericLiteral.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366157936683" ignored="false" />
+    <file path="/BoolExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361747055547" ignored="false" />
+    <file path="/CharacterLiteral.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366242019411" ignored="false" />
+    <file path="/IdentifierExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361757362411" ignored="false" />
+    <file path="/LogicalExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366162172212" ignored="false" />
+    <file path="/NullExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361748602057" ignored="false" />
+    <file path="/ArithmeticExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366157157872" ignored="false" />
+    <file path="/BooleanExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366247985691" ignored="false" />
+    <file path="/FunctionCall.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366361773513" ignored="false" />
+    <file path="/ArrayIndex.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366309750248" ignored="false" />
+    <file path="/MemberReference.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366309292211" ignored="false" />
+    <file path="/BooleanPrimitive.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365909310821" ignored="false" />
+    <file path="/Identifier.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366309227077" ignored="false" />
+    <file path="/SemanticException.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1361757127156" ignored="false" />
+    <file path="/NullLiteral.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365634861275" ignored="false" />
+    <file path="/SubExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365905817293" ignored="false" />
+    <file path="/Void.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366251394603" ignored="false" />
+    <file path="/IExpression.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365905087439" ignored="false" />
+    <file path="/ExpressionSkeleton.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1364671434455" ignored="false" />
+    <file path="/LineOffsets.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1362354346002" ignored="false" />
+    <file path="/SymbolTable.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1362360883168" ignored="false" />
+    <file path="/a.dummy" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366319198239" ignored="false" />
+    <file path="/Op.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366234694519" ignored="false" />
+    <file path="/ShuntingYard.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1363294520819" ignored="false" />
+    <file path="/Operation.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365908878887" ignored="false" />
+    <file path="/TestShuntYard.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1363638170062" ignored="false" />
+    <file path="/TestMethod.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1364663602758" ignored="false" />
+    <file path="/Test.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366153133822" ignored="false" />
+    <file path="/Junk.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1364328806146" ignored="false" />
+    <file path="/Constants.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365458003434" ignored="false" />
+    <file path="/CompilationTest.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365887927552" ignored="false" />
+    <file path="/Precedence.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365118443946" ignored="false" />
+    <file path="/Constant.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366241637050" ignored="false" />
+    <file path="/RyanVM.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366327058894" ignored="false" />
+    <file path="/TestCompiler.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366320089047" ignored="false" />
+    <file path="/TestReadIO.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365968377238" ignored="false" />
+    <file path="/RegisterLabelOrRegisterParser.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365971091146" ignored="false" />
+    <file path="/Dummy.txt" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1365974618285" ignored="false" />
+    <file path="/MemberRefTest.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366053030049" ignored="false" />
+    <file path="/KXIParser.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366219875397" ignored="false" />
+    <file path="/KXIEditorParseResult.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366136576598" ignored="false" />
+    <file path="/JConsole.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366152968732" ignored="false" />
+    <file path="/ConsoleData.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366149480493" ignored="false" />
+    <file path="/JTextAreaWriter.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366151289255" ignored="false" />
+    <file path="/SwingConsole.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366151199614" ignored="false" />
+    <file path="/Console.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366151438408" ignored="false" />
+    <file path="/TextAreaOutputStream.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366152123500" ignored="false" />
+    <file path="/ConsoleOutputStream.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366152466197" ignored="false" />
+    <file path="/GuiConsoleInterface.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366152944235" ignored="false" />
+    <file path="/ConsoleInterface.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366153030132" ignored="false" />
+    <file path="/NameCompletion.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366153077709" ignored="false" />
+    <file path="/DemoCMinus.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366161610970" ignored="false" />
+    <file path="/DemoC.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366230627773" ignored="false" />
+    <file path="/DemoFib.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366233171587" ignored="false" />
+    <file path="/DemoA.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366239048320" ignored="false" />
+    <file path="/RuleContext.java" changelist="d28163e3-e95d-4c17-8a7a-069e8cc8a355" time="1366324755256" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RyanVM" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DemoA.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/DemoA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="162" column="24" selection-start="2504" selection-end="2504" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionCall.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/grammar/expression/FunctionCall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="115" column="0" selection-start="2945" selection-end="3184" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewDeclaration.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/grammar/expression/NewDeclaration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="4" selection-start="3048" selection-end="3048" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssemblyTextAreaTokenMaker.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/editor/AssemblyTextAreaTokenMaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="57" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompilationUnit.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/grammar/CompilationUnit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="247" column="22" selection-start="5800" selection-end="5800" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KXICompiler.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/parser/KXICompiler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="149" column="12" selection-start="5107" selection-end="5148" vertical-scroll-proportion="0.5339105">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RyanVM.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ryanvm/RyanVM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="247" column="17" selection-start="7182" selection-end="7182" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoA.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/DemoA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="149" column="24" selection-start="2347" selection-end="2347" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KXIEditorParser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/editor/KXIEditorParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="59" selection-start="3375" selection-end="3383" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KXITextEditor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/editor/KXITextEditor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="45" selection-start="2272" selection-end="2272" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/grammar/expression/PrimitiveFunction.java" />
+        <option value="$PROJECT_DIR$/src/grammar/expression/SubExpression.java" />
+        <option value="$PROJECT_DIR$/src/editor/LineOffsets.java" />
+        <option value="$PROJECT_DIR$/src/editor/KXIEditorParserNotice.java" />
+        <option value="$PROJECT_DIR$/src/editor/KXITextEditor.java" />
+        <option value="$PROJECT_DIR$/src/TestCompiler.java" />
+        <option value="$PROJECT_DIR$/src/org/fife/ui/rsyntaxtextarea/DefaultToken.java" />
+        <option value="$PROJECT_DIR$/src/org/fife/ui/rsyntaxtextarea/Token.java" />
+        <option value="$PROJECT_DIR$/src/org/antlr/v4/runtime/tree/Trees.java" />
+        <option value="$PROJECT_DIR$/src/org/antlr/v4/runtime/RuleContext.java" />
+        <option value="$PROJECT_DIR$/src/org/fife/ui/rsyntaxtextarea/parser/XmlParser.java" />
+        <option value="$PROJECT_DIR$/src/editor/KXIEditorParser.java" />
+        <option value="$PROJECT_DIR$/src/grammar/CompilationUnit.java" />
+        <option value="$PROJECT_DIR$/src/ryanvm/RyanVM.java" />
+        <option value="$PROJECT_DIR$/src/grammar/expression/FunctionCall.java" />
+        <option value="$PROJECT_DIR$/src/grammar/expression/NewDeclaration.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3272" />
+    <option name="y" value="-158" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RyanVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RyanVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RyanVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RyanVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RyanVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.20000003" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="type" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ryan\Documents\code\RyanVM\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KXITextEditor">
+    <configuration default="false" name="TestCompiler.testNewParam" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="RyanVM" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompiler" />
+      <option name="METHOD_NAME" value="testNewParam" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCompiler.testNew2" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="RyanVM" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompiler" />
+      <option name="METHOD_NAME" value="testNew2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCompiler.testNewParamExpr" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="RyanVM" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompiler" />
+      <option name="METHOD_NAME" value="testNewParamExpr" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCompiler.testMemberRef" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="RyanVM" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompiler" />
+      <option name="METHOD_NAME" value="testMemberRef" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DemoA" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.DemoA" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RyanVM" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCompiler.testProgram3" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="RyanVM" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompiler" />
+      <option name="METHOD_NAME" value="testProgram3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestShuntYard" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="grammar.expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="grammar.expression.TestShuntYard" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RyanVM" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CompilationTest.testProgram" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="grammar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="RyanVM" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="grammar" />
+      <option name="MAIN_CLASS_NAME" value="grammar.CompilationTest" />
+      <option name="METHOD_NAME" value="testProgram" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCompiler.testMemberRefChain" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="RyanVM" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompiler" />
+      <option name="METHOD_NAME" value="testMemberRefChain" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="KXITextEditor" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="editor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="editor.KXITextEditor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RyanVM" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="10">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestCompiler.testProgram3" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestShuntYard" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CompilationTest.testProgram" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestCompiler.testMemberRefChain" />
+      <item index="4" class="java.lang.String" itemvalue="Application.KXITextEditor" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestCompiler.testNewParam" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.TestCompiler.testNew2" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.TestCompiler.testNewParamExpr" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.TestCompiler.testMemberRef" />
+      <item index="9" class="java.lang.String" itemvalue="Application.DemoA" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.DemoA" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestCompiler.testMemberRef" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestCompiler.testNew2" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestCompiler.testNewParamExpr" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestCompiler.testNewParam" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d28163e3-e95d-4c17-8a7a-069e8cc8a355" name="Default" comment="" />
+      <created>1357589564644</created>
+      <updated>1357589564644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3272" y="-158" width="1696" height="1066" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36413643" sideWeight="0.497552" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18770581" sideWeight="0.2117117" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.497552" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2986536" sideWeight="0.34763476" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31762546" sideWeight="0.8122942" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="FLOATING" visible="false" weight="0.2739274" sideWeight="0.6787026" order="2" side_tool="false" content_ui="tabs" x="-1245" y="65" width="1455" height="820" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33553356" sideWeight="0.48041615" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3196159" sideWeight="0.7837838" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/grammar/error/SyntaxException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="11" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/editor/KXIEditorParseResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="6" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/editor/KXIEditorParserNotice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="10" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestCompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="485" column="42" selection-start="12646" selection-end="12646" vertical-scroll-proportion="0.022427442" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/editor/KXIRSyntaxTextAreaTokenMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="585" column="23" selection-start="20832" selection-end="20832" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/editor/AssemblyTextAreaTokenMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="57" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="21" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/editor/KXITextEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="45" selection-start="2272" selection-end="2272" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/editor/KXIEditorParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="59" selection-start="3375" selection-end="3383" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ryanvm/RyanVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="247" column="17" selection-start="7182" selection-end="7182" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DemoA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="24" selection-start="2347" selection-end="2347" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/DemoA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="24" selection-start="2504" selection-end="2504" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grammar/expression/FunctionCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="0" selection-start="2945" selection-end="3184" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grammar/expression/NewDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="4" selection-start="3048" selection-end="3048" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grammar/CompilationUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="247" column="22" selection-start="5800" selection-end="5800" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parser/KXICompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="12" selection-start="5107" selection-end="5148" vertical-scroll-proportion="0.5339105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>RyanVM:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000003" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RyanVM</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000003" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000005" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000003" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
